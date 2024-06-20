@@ -1,4 +1,4 @@
-import Elements from "./elements.js";
+import Elements from "./Elements.js";
 import Buttons from "./Buttons.js";
 
 Elements.btnStart.addEventListener("click", Buttons.startGame);

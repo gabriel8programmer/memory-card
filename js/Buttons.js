@@ -1,6 +1,6 @@
 import Utils from "./Utils.js";
-import Elements from "./elements.js";
-import Game from "./game.js";
+import Elements from "./Elements.js";
+import Game from "./Game.js";
 
 class Buttons {
   static startGame(){
