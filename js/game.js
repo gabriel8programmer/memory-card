@@ -1,7 +1,7 @@
 
 import Utils from "./Utils.js";
 import Elements from "./Elements.js";
-import Assets from "./Assets.js";
+import Assets from "./assets.js";
 
 class Game {
   constructor() {
